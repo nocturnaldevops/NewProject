@@ -1,0 +1,22 @@
+1) Loans 
+     gold
+     education
+     personal
+   Assignee: Laureen
+2) Cards
+     Credit Cards
+     Debit Cards
+     Rupay Cards
+   Assignee: Abunaw Celine
+3) Deposits
+     Fixed Deposits
+     Long Term Deposits
+     Short term Deposits
+   Assignee: Laxman
+4) Basic Features:
+     Customer Account creation
+     Withdrawals
+     Balance Enquiry
+     Netbanking
+     Phone Banking
+   Assignee: Navya
